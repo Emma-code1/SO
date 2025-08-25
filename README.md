@@ -1,3 +1,1 @@
-"# SistemasOperativosEC" 
-"# SO" 
 "# SO" 
