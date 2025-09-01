@@ -11,6 +11,6 @@ printf("Cuantas veces deseas imprimirlo?\n");
 scanf("%i", &impresion);
 
 for(int i = 1; i <= impresion; i++){
-printf("%s", nombre);
+printf("%s\n", nombre);
 }
 }
