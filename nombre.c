@@ -6,11 +6,11 @@ int impresion;
 char nombre[15];
 
 printf("Bienvenido, escribe tu nombre\n");
-scanf("&s", nombre);
+scanf("%s", nombre);
 printf("Cuantas veces deseas imprimirlo?\n");
-scanf("&i", &impresion);
+scanf("%i", &impresion);
 
 for(int i = 1; i <= impresion; i++){
-printf("&s", nombre);
+printf("%s", nombre);
 }
 }
