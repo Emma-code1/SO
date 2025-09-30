@@ -34,13 +34,13 @@ Un Live USB/DVD es un medio de arranque con un sistema operativo temporal (ej: U
    ```
    sudo chroot /mnt
    ```
-10. **Reinstala GRUB:**
+9. **Reinstala GRUB:**
    ```
    grub-install /dev/sdX
    update-grub
    ```
    Reemplaza sdX con el disco (ej: sda).
-11. **Sal del chroot y reinicia:**
+10. **Sal del chroot y reinicia:**
    ```
    exit
    sudo umount /mnt
