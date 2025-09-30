@@ -25,24 +25,24 @@ Un Live USB/DVD es un medio de arranque con un sistema operativo temporal (ej: U
    sudo mount /dev/sdXY /mnt
    ```
    Reemplaza sdXY con tu partición raíz (sda2)
-8. **Monta /boot/efi (Si usas UEFI):**
+7. **Monta /boot/efi (Si usas UEFI):**
    ```
-      sudo mount /dev/sdXZ /mnt/boot/efi
+   sudo mount /dev/sdXZ /mnt/boot/efi
    ```
    Reemplaza sdXZ con la partición EFI
-10. **Accede al sistema con chroot:**
-```
-      sudo chroot /mnt
-```
-12. **Reinstala GRUB:**
-```
+8. **Accede al sistema con chroot:**
+   ```
+   sudo chroot /mnt
+   ```
+10. **Reinstala GRUB:**
+   ```
    grub-install /dev/sdX
    update-grub
-```
-Reemplaza sdX con el disco (ej: sda).
-14. **Sal del chroot y reinicia:**
+   ```
+   Reemplaza sdX con el disco (ej: sda).
+11. **Sal del chroot y reinicia:**
    ```
    exit
    sudo umount /mnt
    reboot
-```
+   ```
