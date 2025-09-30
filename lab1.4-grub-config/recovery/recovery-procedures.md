@@ -43,7 +43,7 @@ Un Live USB/DVD es un medio de arranque con un sistema operativo temporal (ej: U
    
 10. **Sal del chroot y reinicia:**
    ```
-   exit
-   sudo umount /mnt
-   reboot
+      exit
+      sudo umount /mnt
+      reboot
    ```
