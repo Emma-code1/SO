@@ -10,13 +10,13 @@ Se documentó el estado inicial del sistema, se realizaron cambios en el tiempo 
 El sistema se reinició exitosamente después de las modificaciones, y se validó que los cambios se aplicaron correctamente.
 
 ## **Objectives Completed**
--Creación de respaldos de seguridad de los archivos de configuración de GRUB.
--Análisis del estado actual de la configuración de GRUB.
--Modificación del tiempo de espera del menú de arranque a **30 segundos**.
--Modificación de parámetros adicionales en `/etc/default/grub`.
--Aplicación de cambios y verificación del funcionamiento del sistema.
--Investigación y documentación de métodos de recuperación de GRUB.
--Creación de scripts para automatizar respaldos y restauraciones.
+- Creación de respaldos de seguridad de los archivos de configuración de GRUB.
+- Análisis del estado actual de la configuración de GRUB.
+- Modificación del tiempo de espera del menú de arranque a **30 segundos**.
+- Modificación de parámetros adicionales en `/etc/default/grub`.
+- Aplicación de cambios y verificación del funcionamiento del sistema.
+- Investigación y documentación de métodos de recuperación de GRUB.
+- Creación de scripts para automatizar respaldos y restauraciones.
 
 ## **Main Changes Implemented**
 1. **Modificación del tiempo de espera del menú de arranque**:
