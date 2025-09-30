@@ -6,7 +6,9 @@ El modo rescate de GRUB es un entorno mínimo que se activa cuando GRUB no puede
 ## Cómo acceder
 1. Reinicia el sistema.
 2. Si GRUB falla, aparecerá automáticamente el prompt:
+   ```
    grub rescue>
+   ```
 
 ## Comandos básicos
 
@@ -24,14 +26,21 @@ El modo rescate de GRUB es un entorno mínimo que se activa cuando GRUB no puede
 
 ## Procedimiento para arrancar manualmente
 1. Identifica la partición de `/boot`:
-   bash
+   ```
    grub rescue> ls
+   ```
 2. Establece la partición raíz:
+   ```
    grub rescue< set root=(hd0,msdos1)
-3. Carga los módulos necesarios:
+   ```
+4. Carga los módulos necesarios:
+   ```
    grub rescue> insmod normal
    grub rescue> normal
-4. Si normal falla, carga el kernel manualmente:
+   ```
+6. Si normal falla, carga el kernel manualmente:
+   ```
    grub rescue> linux /boot/vmlinuz-5.15.0-76-generic root=/dev/sda1
    grub rescue> initrd /boot/initrd.img-5.15.0-76-generic
    grub rescue> boot
+   ```
