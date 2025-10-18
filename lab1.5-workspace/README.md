@@ -1,7 +1,7 @@
 # Lab 1.5: Users and Services Management
 
-**Estudiante:** [Tu Nombre]
-**Fecha:** $(date +"%Y-%m-%d")
+**Estudiante:** Emmanuel Castillo Leyva
+**Fecha:** 29/09/2025
 **Curso:** Sistemas Operativos
 
 ## Resumen Ejecutivo
