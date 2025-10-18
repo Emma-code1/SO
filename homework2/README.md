@@ -1,5 +1,7 @@
 cat > README.md << 'EOF'
 # Zombie Process Monitor and Reaper
+**Estudiante:** Emmanuel Castillo Leyva **Fecha:** 29/09/2025 Curso: Sistemas Operativos
+
 
 Este proyecto implementa herramientas para crear, detectar, y eliminar procesos zombies en Linux.
 
