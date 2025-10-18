@@ -1,0 +1,27 @@
+● apache2.service - The Apache HTTP Server
+     Loaded: loaded (/usr/lib/systemd/system/apache2.service; enabled; preset: enabled)
+     Active: active (running) since Sat 2025-10-18 01:01:14 UTC; 7min ago
+       Docs: https://httpd.apache.org/docs/2.4/
+    Process: 10407 ExecStart=/usr/sbin/apachectl start (code=exited, status=0/SUCCESS)
+   Main PID: 10410 (apache2)
+      Tasks: 55 (limit: 3821)
+     Memory: 5.1M (peak: 5.3M)
+        CPU: 53ms
+     CGroup: /system.slice/apache2.service
+             ├─10410 /usr/sbin/apache2 -k start
+             ├─10411 /usr/sbin/apache2 -k start
+             └─10413 /usr/sbin/apache2 -k start
+
+Oct 18 01:01:14 Mimaquin systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Oct 18 01:01:14 Mimaquin systemd[1]: Started apache2.service - The Apache HTTP Server.
+○ simple-service.service - Simple Test Service
+     Loaded: loaded (/etc/systemd/system/simple-service.service; enabled; preset: enabled)
+     Active: inactive (dead) (Result: exit-code) since Sat 2025-10-18 01:06:53 UTC; 1min 58s ago
+   Duration: 983us
+    Process: 10651 ExecStart=/home/root/simple-service.sh (code=exited, status=203/EXEC)
+   Main PID: 10651 (code=exited, status=203/EXEC)
+        CPU: 697us
+
+Oct 18 01:06:50 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:06:50 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:06:53 Mimaquin systemd[1]: Stopped simple-service.service - Simple Test Service.

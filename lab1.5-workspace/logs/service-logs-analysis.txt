@@ -1,0 +1,425 @@
+Oct 18 00:49:23 Mimaquin systemd[1]: Reloading apache2.service - The Apache HTTP Server...
+Oct 18 00:49:23 Mimaquin systemd[1]: Reloaded apache2.service - The Apache HTTP Server.
+Oct 18 01:00:50 Mimaquin systemd[1]: Stopping apache2.service - The Apache HTTP Server...
+Oct 18 01:00:50 Mimaquin systemd[1]: apache2.service: Deactivated successfully.
+Oct 18 01:00:50 Mimaquin systemd[1]: Stopped apache2.service - The Apache HTTP Server.
+Oct 18 01:00:57 Mimaquin systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Oct 18 01:00:57 Mimaquin apachectl[10388]: apache2: Could not open configuration file /etc/apache2/apache2.conf: No such file or directory
+Oct 18 01:00:57 Mimaquin systemd[1]: apache2.service: Control process exited, code=exited, status=1/FAILURE
+Oct 18 01:00:57 Mimaquin systemd[1]: apache2.service: Failed with result 'exit-code'.
+Oct 18 01:00:57 Mimaquin systemd[1]: Failed to start apache2.service - The Apache HTTP Server.
+Oct 18 01:01:14 Mimaquin systemd[1]: Starting apache2.service - The Apache HTTP Server...
+Oct 18 01:01:14 Mimaquin systemd[1]: Started apache2.service - The Apache HTTP Server.
+Oct 18 00:49:24 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 347.
+Oct 18 00:49:24 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:49:24 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:49:24 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:49:35 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 348.
+Oct 18 00:49:35 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:49:35 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:49:35 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:49:45 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 349.
+Oct 18 00:49:45 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:49:45 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:49:45 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:49:55 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 350.
+Oct 18 00:49:55 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:49:55 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:49:55 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:50:05 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 351.
+Oct 18 00:50:05 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:50:05 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:50:05 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:50:16 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 352.
+Oct 18 00:50:16 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:50:16 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:50:16 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:50:26 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 353.
+Oct 18 00:50:26 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:50:26 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:50:26 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:50:36 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 354.
+Oct 18 00:50:36 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:50:36 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:50:36 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:50:46 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 355.
+Oct 18 00:50:46 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:50:46 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:50:46 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:50:57 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 356.
+Oct 18 00:50:57 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:50:57 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:50:57 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:51:07 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 357.
+Oct 18 00:51:07 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:51:07 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:51:07 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:51:17 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 358.
+Oct 18 00:51:17 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:51:17 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:51:17 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:51:27 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 359.
+Oct 18 00:51:27 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:51:27 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:51:27 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:51:38 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 360.
+Oct 18 00:51:38 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:51:38 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:51:38 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:51:48 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 361.
+Oct 18 00:51:48 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:51:48 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:51:48 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:51:58 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 362.
+Oct 18 00:51:58 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:51:58 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:51:58 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:52:08 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 363.
+Oct 18 00:52:08 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:52:08 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:52:08 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:52:19 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 364.
+Oct 18 00:52:19 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:52:19 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:52:19 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:52:29 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 365.
+Oct 18 00:52:29 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:52:29 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:52:29 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:52:39 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 366.
+Oct 18 00:52:39 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:52:39 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:52:39 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:52:49 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 367.
+Oct 18 00:52:49 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:52:49 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:52:49 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:53:00 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 368.
+Oct 18 00:53:00 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:53:00 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:53:00 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:53:10 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 369.
+Oct 18 00:53:10 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:53:10 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:53:10 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:53:20 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 370.
+Oct 18 00:53:20 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:53:20 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:53:20 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:53:30 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 371.
+Oct 18 00:53:30 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:53:30 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:53:30 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:53:41 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 372.
+Oct 18 00:53:41 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:53:41 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:53:41 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:53:51 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 373.
+Oct 18 00:53:51 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:53:51 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:53:51 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:54:01 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 374.
+Oct 18 00:54:01 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:54:01 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:54:01 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:54:11 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 375.
+Oct 18 00:54:11 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:54:11 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:54:11 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:54:22 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 376.
+Oct 18 00:54:22 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:54:22 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:54:22 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:54:32 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 377.
+Oct 18 00:54:32 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:54:32 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:54:32 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:54:42 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 378.
+Oct 18 00:54:42 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:54:42 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:54:42 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:54:52 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 379.
+Oct 18 00:54:52 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:54:52 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:54:52 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:55:03 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 380.
+Oct 18 00:55:03 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:55:03 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:55:03 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:55:13 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 381.
+Oct 18 00:55:13 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:55:13 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:55:13 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:55:23 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 382.
+Oct 18 00:55:23 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:55:23 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:55:23 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:55:33 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 383.
+Oct 18 00:55:33 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:55:33 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:55:33 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:55:44 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 384.
+Oct 18 00:55:44 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:55:44 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:55:44 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:55:54 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 385.
+Oct 18 00:55:54 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:55:54 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:55:54 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:56:04 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 386.
+Oct 18 00:56:04 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:56:04 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:56:04 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:56:14 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 387.
+Oct 18 00:56:14 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:56:14 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:56:14 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:56:25 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 388.
+Oct 18 00:56:25 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:56:25 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:56:25 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:56:35 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 389.
+Oct 18 00:56:35 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:56:35 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:56:35 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:56:45 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 390.
+Oct 18 00:56:45 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:56:45 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:56:45 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:56:55 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 391.
+Oct 18 00:56:55 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:56:55 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:56:55 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:57:06 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 392.
+Oct 18 00:57:06 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:57:06 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:57:06 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:57:16 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 393.
+Oct 18 00:57:16 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:57:16 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:57:16 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:57:26 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 394.
+Oct 18 00:57:26 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:57:26 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:57:26 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:57:36 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 395.
+Oct 18 00:57:36 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:57:36 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:57:36 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:57:47 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 396.
+Oct 18 00:57:47 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:57:47 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:57:47 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:57:57 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 397.
+Oct 18 00:57:57 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:57:57 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:57:57 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:58:07 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 398.
+Oct 18 00:58:07 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:58:07 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:58:07 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:58:17 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 399.
+Oct 18 00:58:17 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:58:17 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:58:17 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:58:28 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 400.
+Oct 18 00:58:28 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:58:28 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:58:28 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:58:38 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 401.
+Oct 18 00:58:38 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:58:38 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:58:38 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:58:48 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 402.
+Oct 18 00:58:48 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:58:48 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:58:48 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:58:58 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 403.
+Oct 18 00:58:58 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:58:58 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:58:58 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:59:09 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 404.
+Oct 18 00:59:09 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:59:09 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:59:09 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:59:19 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 405.
+Oct 18 00:59:19 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:59:19 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:59:19 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:59:29 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 406.
+Oct 18 00:59:29 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:59:29 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:59:29 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:59:39 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 407.
+Oct 18 00:59:39 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:59:39 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:59:39 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 00:59:50 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 408.
+Oct 18 00:59:50 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 00:59:50 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 00:59:50 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:00:00 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 409.
+Oct 18 01:00:00 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:00:00 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:00:00 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:00:10 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 410.
+Oct 18 01:00:10 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:00:10 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:00:10 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:00:20 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 411.
+Oct 18 01:00:20 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:00:20 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:00:20 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:00:31 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 412.
+Oct 18 01:00:31 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:00:31 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:00:31 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:00:41 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 413.
+Oct 18 01:00:41 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:00:41 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:00:41 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:00:51 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 414.
+Oct 18 01:00:51 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:00:51 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:00:51 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:01:01 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 415.
+Oct 18 01:01:01 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:01:01 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:01:01 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:01:12 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 416.
+Oct 18 01:01:12 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:01:12 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:01:12 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:01:22 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 417.
+Oct 18 01:01:22 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:01:22 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:01:22 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:01:32 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 418.
+Oct 18 01:01:32 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:01:32 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:01:32 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:01:42 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 419.
+Oct 18 01:01:42 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:01:42 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:01:42 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:01:53 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 420.
+Oct 18 01:01:53 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:01:53 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:01:53 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:02:03 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 421.
+Oct 18 01:02:03 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:02:03 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:02:03 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:02:13 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 422.
+Oct 18 01:02:13 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:02:13 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:02:13 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:02:23 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 423.
+Oct 18 01:02:23 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:02:23 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:02:23 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:02:34 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 424.
+Oct 18 01:02:34 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:02:34 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:02:34 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:02:44 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 425.
+Oct 18 01:02:44 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:02:44 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:02:44 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:02:54 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 426.
+Oct 18 01:02:54 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:02:54 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:02:54 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:03:04 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 427.
+Oct 18 01:03:04 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:03:04 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:03:04 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:03:15 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 428.
+Oct 18 01:03:15 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:03:15 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:03:15 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:03:25 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 429.
+Oct 18 01:03:25 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:03:25 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:03:25 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:03:35 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 430.
+Oct 18 01:03:35 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:03:35 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:03:35 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:03:45 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 431.
+Oct 18 01:03:45 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:03:45 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:03:45 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:03:56 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 432.
+Oct 18 01:03:56 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:03:56 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:03:56 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:04:06 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 433.
+Oct 18 01:04:06 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:04:06 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:04:06 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:04:16 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 434.
+Oct 18 01:04:16 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:04:16 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:04:16 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:04:26 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 435.
+Oct 18 01:04:26 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:04:26 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:04:26 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:04:37 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 436.
+Oct 18 01:04:37 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:04:37 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:04:37 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:04:47 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 437.
+Oct 18 01:04:47 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:04:47 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:04:47 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:04:57 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 438.
+Oct 18 01:04:57 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:04:57 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:04:57 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:05:07 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 439.
+Oct 18 01:05:07 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:05:07 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:05:07 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:05:18 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 440.
+Oct 18 01:05:18 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:05:18 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:05:18 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:05:28 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 441.
+Oct 18 01:05:28 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:05:28 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:05:28 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:05:38 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 442.
+Oct 18 01:05:38 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:05:38 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:05:38 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:05:48 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 443.
+Oct 18 01:05:48 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:05:48 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:05:48 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:05:59 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 444.
+Oct 18 01:05:59 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:05:59 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:05:59 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:06:09 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 445.
+Oct 18 01:06:09 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:06:09 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:06:09 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:06:19 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 446.
+Oct 18 01:06:19 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:06:19 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:06:19 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:06:29 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 447.
+Oct 18 01:06:29 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:06:29 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:06:29 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:06:40 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 448.
+Oct 18 01:06:40 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:06:40 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:06:40 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:06:50 Mimaquin systemd[1]: simple-service.service: Scheduled restart job, restart counter is at 449.
+Oct 18 01:06:50 Mimaquin systemd[1]: Started simple-service.service - Simple Test Service.
+Oct 18 01:06:50 Mimaquin systemd[1]: simple-service.service: Main process exited, code=exited, status=203/EXEC
+Oct 18 01:06:50 Mimaquin systemd[1]: simple-service.service: Failed with result 'exit-code'.
+Oct 18 01:06:53 Mimaquin systemd[1]: Stopped simple-service.service - Simple Test Service.

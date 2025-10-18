@@ -1,0 +1,7 @@
+Pasos para solucionar problemas con Apache2:
+1. Detener Apache2: sudo systemctl stop apache2
+2. Respaldo de configuración: sudo mv /etc/apache2/apache2.conf /etc/apache2/apache2.conf.backup
+3. Intentar iniciar Apache2: sudo systemctl start apache2
+4. Revisar logs: journalctl -u apache2 --since '5 minutes ago'
+5. Restaurar configuración: sudo mv /etc/apache2/apache2.conf.backup /etc/apache2/apache2.conf
+6. Iniciar Apache2: sudo systemctl start apache2

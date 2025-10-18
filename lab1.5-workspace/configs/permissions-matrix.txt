@@ -1,0 +1,12 @@
+Permisos para /shared/projects:
+total 8
+drwxrwx--- 2 root  developers 4096 Sep 30 05:40 .
+drwxr-xr-x 4 root  root       4096 Sep 30 05:38 ..
+-rw-rw-r-- 1 alice alice         0 Sep 30 05:39 alice-file.txt
+-rw-rw-r-- 1 bob   bob           0 Sep 30 05:40 bob-file.txt
+
+Permisos para /shared/testing:
+total 8
+drwxrwxr-x 2 root    testers 4096 Sep 30 05:40 .
+drwxr-xr-x 4 root    root    4096 Sep 30 05:38 ..
+-rw-rw-r-- 1 charlie charlie    0 Sep 30 05:40 test-file.txt
