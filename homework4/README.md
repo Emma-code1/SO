@@ -42,7 +42,7 @@ Características del Cliente (chat_client.c)
    - Manejo interno de mensajes estructurados.
 
 ------------------------------------------------------------
-##Estructura del Proyecto
+Estructura del Proyecto
 ------------------------------------------------------------
 ```
 homework4/
@@ -70,7 +70,7 @@ homework4/
 └── README.txt
 ```
 ------------------------------------------------------------
-##Compilación
+Compilación
 ------------------------------------------------------------
 Ejecutar:
 ```
