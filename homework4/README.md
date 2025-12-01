@@ -1,4 +1,4 @@
-#Multi-Client Chat System
+Multi-Client Chat System
 ========================
 
 Proyecto de un sistema de chat cliente-servidor usando IPC en Linux (sockets UNIX + message queues).
@@ -6,7 +6,7 @@ Permite múltiples clientes conectados al mismo tiempo, soporte de mensajes priv
 lista de usuarios y comandos administrativos.
 
 ------------------------------------------------------------
-##Características del Servidor (chat_server.c)
+Características del Servidor (chat_server.c)
 ------------------------------------------------------------
 - Acepta múltiples clientes concurrentes.
 - Mantiene una lista de usuarios activos.
@@ -20,7 +20,7 @@ lista de usuarios y comandos administrativos.
   /shutdown
 
 ------------------------------------------------------------
-##Características del Cliente (chat_client.c)
+Características del Cliente (chat_client.c)
 ------------------------------------------------------------
 - Conecta al servidor mediante UNIX Domain Sockets.
 - Solicita nombre de usuario.
@@ -44,6 +44,7 @@ lista de usuarios y comandos administrativos.
 ------------------------------------------------------------
 ##Estructura del Proyecto
 ------------------------------------------------------------
+```
 homework4/
 ├── src/
 │   ├── chat_server.c
@@ -67,7 +68,7 @@ homework4/
 │   └── TESTING.md
 ├── Makefile
 └── README.txt
-
+```
 ------------------------------------------------------------
 ##Compilación
 ------------------------------------------------------------
