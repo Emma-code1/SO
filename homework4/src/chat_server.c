@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <pthread.h>
 #include <signal.h>
+#include <stdarg.h>
 
 #include "../include/chat.h"
 #include "../include/ipc.h"

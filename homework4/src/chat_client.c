@@ -4,6 +4,9 @@
 #include <string.h>
 #include <unistd.h>
 #include <pthread.h>
+#include <sys/socket.h>
+#include <sys/un.h>
+#include "chat.h"
 
 #include "../include/ipc.h"
 #include "../include/message.h"
